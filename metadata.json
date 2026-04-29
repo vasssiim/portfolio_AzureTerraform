@@ -1,0 +1,6 @@
+{
+  "name": "Abbott Azure Ops Visualizer",
+  "description": "An interactive visualization of the Automated Azure Infrastructure Provisioning flow for Abbott India Ltd, showcasing Terraform modules, DevOps pipelines, and AKS deployments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
